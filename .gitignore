@@ -1,0 +1,14 @@
+# Node/Frontend
+Digitallibraryfrontend/node_modules/
+Digitallibraryfrontend/dist/
+Digitallibraryfrontend/.env
+
+# Java/Backend/IntelliJ
+DigitalLibrary/.idea/
+DigitalLibrary/target/
+DigitalLibrary/*.class
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
