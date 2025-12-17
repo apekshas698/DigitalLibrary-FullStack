@@ -12,3 +12,4 @@ DigitalLibrary/*.class
 # OS files
 .DS_Store
 Thumbs.db
+*.zip
